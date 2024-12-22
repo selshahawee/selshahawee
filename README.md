@@ -28,7 +28,7 @@
 - **Ant Design** – Because spies need beautiful disguises.  
 
 ### 📊 Surveillance Data (GitHub Stats)  
-![GitHub Stats](https://github-readme-stats-sandy-six-69.vercel.app/api?username=selshahawee&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats-sandy-six-69.vercel.app/api?username=selshahawee&show_icons=true&theme=tokyonight)  
 *`Above: Proof that I sometimes write code.`*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selshahawee&layout=compact&theme=radical)  
@@ -39,11 +39,13 @@
 ### 🤯 Agent Achievements  
 ![Streak Stats](https://streak-stats.demolab.com?user=selshahawee&theme=radical&hide_border=true)  
 *`I’m powered by caffeine and merge conflicts.`*
+
 ---
 
 ### ⚠️ TOP SECRET Agent Motto
 
 *"Not the best coder in the world, but definitely the funniest (to me)."*  
+
 ---
 
 ### 🚨 Bonus Fun Section  
