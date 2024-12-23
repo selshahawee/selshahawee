@@ -28,7 +28,7 @@
 - **Ant Design** – Because spies need beautiful disguises.  
 
 ### 📊 Surveillance Data (GitHub Stats)  
-[![Anurag's GitHub stats](https://github-readme-stats-sandy-six-69.vercel.app/api?username=selshahawee&show_icons=true&theme=tokyonight)]  
+![Anurag's GitHub stats](https://your-deployed-instance.vercel.app/api?username=selshahawee&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
 *`Above: Proof that I sometimes write code.`*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selshahawee&layout=compact&theme=radical)  
