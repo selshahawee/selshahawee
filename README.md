@@ -44,7 +44,7 @@
 
 ### ⚠️ TOP SECRET Agent Motto
 
-*"Not the best coder in the world, but definitely the funniest (to me)."*  
+*"Might not be the best coder in the world, but definitely the funniest (to me)."*  
 
 ---
 
