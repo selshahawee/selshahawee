@@ -32,7 +32,8 @@
 
 *`Above: Proof that I sometimes write code.`*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selshahawee&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selshahawee&layout=compact&theme=radical)
+
 *`Languages I use to confuse computers and myself.`*
 
 ---
