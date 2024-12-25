@@ -42,6 +42,8 @@
 ![Streak Stats](https://streak-stats.demolab.com?user=selshahawee&theme=dracula&hide_border=true)  
 *`I’m powered by caffeine and merge conflicts.`*
 
+![trophy](https://github-profile-trophy-beige.vercel.app/?username=selshahawee&theme=onedark)
+
 ---
 
 ### ⚠️ TOP SECRET Agent Motto
