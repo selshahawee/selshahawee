@@ -39,11 +39,12 @@
 ---
 
 ### 🤯 Agent Achievements  
-![Streak Stats](https://streak-stats.demolab.com?user=selshahawee&theme=dracula&hide_border=true)  
 [![GitHub Streak](https://github-readme-streak-stats-delta-liart.vercel.app?user=selshahawee&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
 *`I’m powered by caffeine and merge conflicts.`*
 
 ![trophy](https://github-profile-trophy-beige.vercel.app/?username=selshahawee&theme=onedark)
+
 *`Proof that I can achieve things… besides accidentally deploying to production`*
 
 ---
