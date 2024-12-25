@@ -43,7 +43,7 @@
 
 *`I’m powered by caffeine and merge conflicts.`*
 
-![trophy](https://github-profile-trophy-beige.vercel.app/?username=selshahawee&theme=onedark)
+![trophy](https://github-profile-trophy-beige.vercel.app/?username=selshahawee&&count_private=true&theme=onedark)
 
 *`Proof that I can achieve things… besides accidentally deploying to production`*
 
