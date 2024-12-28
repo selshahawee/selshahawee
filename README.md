@@ -57,7 +57,7 @@
 
 ### 🚨 Bonus Fun Section  
 
-> “I didn’t choose the debugging life. The debugging life chose me.”  
+ “I didn’t choose the debugging life. The debugging life chose me.”  
 ---
 
 ### 💡 Pro Tip
