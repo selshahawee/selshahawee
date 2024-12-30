@@ -30,22 +30,22 @@
 ### 📊 Surveillance Data (GitHub Stats)  
 ![GitHub Stats](https://github-readme-stats-nu-nine-86.vercel.app/api?username=selshahawee&show_icons=true&theme=radical) 
 
-*`Above: Proof that I sometimes write code.`*
+*"Above: Proof that I sometimes write code."*
 
 ![Top Langs](https://github-readme-stats-nu-nine-86.vercel.app/api/top-langs/?username=selshahawee&layout=compact&theme=dracula)
 
-*`Languages I use to confuse computers and myself.`*
+*"Languages I use to confuse computers and myself."*
 
 ---
 
 ### 🤯 Agent Achievements  
 [![GitHub Streak](https://github-readme-streak-stats-delta-liart.vercel.app?user=selshahawee&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-*`I’m powered by caffeine and merge conflicts.`*
+*"I’m powered by caffeine and merge conflicts."*
 
 ![trophy](https://github-profile-trophy-beige.vercel.app/?username=selshahawee&&count_private=true&theme=onedark)
 
-*`Proof that I can achieve things… besides accidentally deploying to production`*
+*"Proof that I can achieve things… besides accidentally deploying to production"*
 
 ---
 
