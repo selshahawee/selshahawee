@@ -57,8 +57,8 @@
 
 ### 🚨 Bonus Fun Section  
 
- “I didn’t choose the debugging life. The debugging life chose me.”  
+ *"I didn’t choose the debugging life. The debugging life chose me."*
 ---
 
 ### 💡 Pro Tip
-If this README doesn’t make you laugh, you can still hire me for my coding skills. 😏
+ “If this README doesn’t make you laugh, you can still hire me for my coding skills. 😏” 
